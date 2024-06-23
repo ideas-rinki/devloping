@@ -1,2 +1,2 @@
 # devloping
-this is my initiation
+This is my initiation
